@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 SAP Basis Oracle
+# 🤖 SAP Basis 
 ### AI-Powered SAP Basis Consultant
 
 **Rufus** — A domain-specific AI agent built on Google Gemini that acts as a senior SAP Basis Consultant with 25+ years of expertise. Ask questions, get step-by-step procedures, generate professional documents, visualizations, ABAP code, and architecture diagrams — all from a single chat interface.
@@ -59,7 +59,7 @@ Rufus covers **13 SAP Basis domains** out of the box:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/sap-basis-oracle.git
+git clone https://github.com/your-username/rufus.git
 cd sap-basis-oracle
 ```
 
